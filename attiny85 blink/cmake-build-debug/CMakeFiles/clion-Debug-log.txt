@@ -1,0 +1,1 @@
+CMakeLists.txt not found in C:\Users\miki.watts\OneDrive\Projects\attiny85 blink Select CMakeLists.txt
